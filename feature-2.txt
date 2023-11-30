@@ -5,6 +5,7 @@ and this file is created for rebase and merge difference practical
 
 make another change or second update
 
-thoda or kaam kiya
+<<<<<<< HEAD
+thoda or kam kiy
 
-more work in this file   
+thoda or kaam kiya  
